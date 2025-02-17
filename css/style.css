@@ -4,7 +4,7 @@
    box-sizing: border-box;
 }
 .container{
-    max-width: 1080px;
+    max-width: 991px;
     margin: 0 auto;
 }
 
@@ -22,4 +22,20 @@
     text-align: left;
     margin-left: 10px;
     margin-top: 39px;
+}
+h1{
+    margin-top: 10px;
+    font-size: 40px;
+}
+.address{
+    color: gray;
+}
+#thebooleaner{
+    color:#56a6cf;
+}
+#scrittoda{
+    font-size: 21px;
+}
+#data{
+    font-size: 13px;
 }
