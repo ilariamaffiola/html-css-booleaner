@@ -4,7 +4,7 @@
    box-sizing: border-box;
 }
 .container{
-    max-width: 991px;
+    max-width: 1080px;
     margin: 0 auto;
 }
 
@@ -37,5 +37,11 @@ h1{
     font-size: 21px;
 }
 #data{
+    font-size: 13px;
+}
+.immaginitim{
+    margin-top: 24px;
+}
+.descrizionefoto{
     font-size: 13px;
 }
