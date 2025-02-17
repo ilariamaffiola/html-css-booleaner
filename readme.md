@@ -15,3 +15,7 @@ Il bonus deve essere consegnato all'interno di una cartella chiamata bonus da re
 Numero minimo di push: 8
 Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
 Buon lavoro!
+
+
+
+ESERCIZIO FINITO
